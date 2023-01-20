@@ -1,0 +1,6 @@
+If you’re completely new to making websites, there's an introduction:
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+
+and another course to help you learn CSS:
+https://web.dev/learn/css/
